@@ -4,4 +4,4 @@
 
 这个题目给的N是可以在factordb上直接分解成p和q，直接做就好
 
-![img](https://kjd3xtsq9r.feishu.cn/space/api/box/stream/download/asynccode/?code=88085a9a5f7d6cf2d9860e84e480fd03_8f118824ce50c961_boxcnhqJpj5yxUXNPsrpSH4A5lb_QsGCWXwYORC5msI7mzPghwlLSTYjuF7S)
+![image-20201130165158523.png](https://i.loli.net/2020/11/30/ugBLXW2HdypZem6.png)
