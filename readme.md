@@ -11,7 +11,7 @@
   - [Hard | baby_sql | Author: 小喇叭](Web/baby_sql)
 - **Misc**
   - [Easy | smojike | Author: CrzZ](Misc/smojike)
-  - [Easy | Kap0k OnlineJudge | Author: Q4n](Misc/Kap0k OnlineJudge)
+  - [Easy | Kap0k OnlineJudge | Author: Q4n](Misc/Kap0k%20OnlineJudge)
   - [Normal | bot.getFlag | Author: SJoshua](Misc/bot.getFlag)
   - [Normal | maze | Author: SJoshua](Misc/maze)
   - [Normal | easy_sudoku | Author: SJoshua](Misc/easy_sudoku)
