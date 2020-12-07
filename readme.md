@@ -16,6 +16,7 @@
   - [Normal | bot.getFlag | Author: SJoshua](Misc/bot.getFlag)
   - [Normal | maze | Author: SJoshua](Misc/maze)
   - [Normal | easy_sudoku | Author: SJoshua](Misc/easy_sudoku)
+  - [Hard | SOS | Author: CrzZ](Misc/SOS)
 - **Crypto**
   - [Easy | 你会使用密码工具吗？ | Author: hsq](Crypto/%E4%BD%A0%E4%BC%9A%E4%BD%BF%E7%94%A8%E5%AF%86%E7%A0%81%E5%B7%A5%E5%85%B7%E5%90%97%EF%BC%9F)
   - [Easy | mylove | Author: hsq](Crypto/mylove)
